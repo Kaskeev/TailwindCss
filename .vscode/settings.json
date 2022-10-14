@@ -1,0 +1,9 @@
+{
+  "scss.lint.unknownAtRules": "ignore",
+  "css.lint.unknownAtRules": "ignore",
+  "files.associations": {
+    "*.scss": "postcss",
+    "*module.scss": "postcss",
+    "*.css": "tailwindcss"
+  }
+}
